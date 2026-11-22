@@ -1,0 +1,6 @@
+{
+  "name": "JoziHelper",
+  "description": "Concise, live-grounded community assistant for Johannesburg residents covering local services, utilities, transit, and household budgeting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
